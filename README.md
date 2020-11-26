@@ -12,6 +12,11 @@ An easy to use all-in-one class for a key-binding system in Unity.
 - [**CooldownAPI**](https://github.com/JosepeDev/CooldownAPI)  
 Simple and easy tool for handling and managing cooldowns in UnityEngine efficiently.
 
+### In Progress
+- Additional version of KeyBinder for Unity's new input system
+- A leaderboards tool for Unity games
+- A C++ Support for VarEnc repo
+- A Python Support for VarEnc repo
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
