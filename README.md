@@ -4,11 +4,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc)](https://github.com/JosepeDev/VarEnc)
 
 ### Unity Projects
-- [**KeyBinder**](https://github.com/JosepeDev/KeyBinder)  
-An easy to use all-in-one class for a key-binding system in Unity.  
-
-- [**CooldownAPI**](https://github.com/JosepeDev/CooldownAPI)  
-Simple and easy tool for handling and managing cooldowns in UnityEngine efficiently.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder)](https://github.com/JosepeDev/KeyBinder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI)](https://github.com/JosepeDev/CooldownAPI)
 
 ### In Progress
 - Additional version of KeyBinder for Unity's new input system
