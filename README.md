@@ -1,5 +1,12 @@
 ![img](https://i.imgur.com/UHBDj29.png)
 
+- Projects
+    - [**VarEnc**](https://github.com/JosepeDev/VarEnc)
+
+- Unity Projects
+    - [**KeyBinder**](https://github.com/JosepeDev/KeyBinder)
+    - [**CooldownAPI**](https://github.com/JosepeDev/CooldownAPI)
+
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
