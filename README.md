@@ -1,11 +1,11 @@
 ![img](https://i.imgur.com/OrZVBIx.png)
 
-- Projects
+### Projects
     - [**VarEnc**](https://github.com/JosepeDev/VarEnc)  
     Simple and easy to use tools for storing values while efficiently keeping them encrypted in the memory.
     Currently supports most of C#'s types, and will support Python and C++ in the future.
 
-- Unity Projects
+### Unity Projects
     - [**KeyBinder**](https://github.com/JosepeDev/KeyBinder)  
     An easy to use all-in-one class for a key-binding system in Unity.  
     
