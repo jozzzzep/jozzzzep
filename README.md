@@ -18,7 +18,7 @@ Simple and easy tool for handling and managing cooldowns in UnityEngine efficien
 - A C++ Support for VarEnc repo
 - A Python Support for VarEnc repo
 
-<img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true" />
+<img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true&theme=dark" />
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
