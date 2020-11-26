@@ -1,4 +1,4 @@
-![img](https://i.imgur.com/UHBDj29.png)
+![img](https://i.imgur.com/OrZVBIx.png)
 
 - Projects
     - [**VarEnc**](https://github.com/JosepeDev/VarEnc)
