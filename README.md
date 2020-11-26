@@ -1,9 +1,6 @@
 ![img](https://i.imgur.com/OrZVBIx.png)
 
 ### Projects
-- [**VarEnc**](https://github.com/JosepeDev/VarEnc)  
-Simple and easy to use tools for storing values while efficiently keeping them encrypted in the memory.
-Currently supports most of C#'s types, and will support Python and C++ in the future. 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc)](https://github.com/JosepeDev/VarEnc)
 
 ### Unity Projects
