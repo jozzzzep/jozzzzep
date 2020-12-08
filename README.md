@@ -13,7 +13,7 @@
 - A C++ Support for VarEnc repo
 - A Python Support for VarEnc repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true" />
 
