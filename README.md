@@ -14,10 +14,7 @@
 - A Python Support for VarEnc repo
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev&hide_border=true)
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
