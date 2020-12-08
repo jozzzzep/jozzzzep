@@ -1,11 +1,11 @@
-![img](https://i.imgur.com/OrZVBIx.png)
+![img](https://i.imgur.com/HqD7w7O.png)
 
 ### Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc)](https://github.com/JosepeDev/VarEnc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc&theme=dark)](https://github.com/JosepeDev/VarEnc)
 
 ### Unity Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder)](https://github.com/JosepeDev/KeyBinder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI)](https://github.com/JosepeDev/CooldownAPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder&theme=dark)](https://github.com/JosepeDev/KeyBinder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI&theme=dark)](https://github.com/JosepeDev/CooldownAPI)
 
 ### In Progress
 - Additional version of KeyBinder for Unity's new input system
@@ -13,7 +13,7 @@
 - A C++ Support for VarEnc repo
 - A Python Support for VarEnc repo
 
-<img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true" />
+<img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true&theme=dark" />
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
