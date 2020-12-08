@@ -1,11 +1,11 @@
 ![img](https://i.imgur.com/HqD7w7O.png)
 
 ### Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc)](https://github.com/JosepeDev/VarEnc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc&hide_border=true)](https://github.com/JosepeDev/VarEnc)
 
 ### Unity Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder)](https://github.com/JosepeDev/KeyBinder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI)](https://github.com/JosepeDev/CooldownAPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder&hide_border=true)](https://github.com/JosepeDev/KeyBinder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI&hide_border=true)](https://github.com/JosepeDev/CooldownAPI)
 
 ### In Progress
 - Additional version of KeyBinder for Unity's new input system
@@ -13,7 +13,8 @@
 - A C++ Support for VarEnc repo
 - A Python Support for VarEnc repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="Josepe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true" />
 
