@@ -13,6 +13,7 @@
 - A C++ Support for VarEnc repo
 - A Python Support for VarEnc repo
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Josepe)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JosepeDev&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosepeDev&hide_border=true)
 <!--
