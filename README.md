@@ -4,6 +4,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=VarEnc&hide_border=true)](https://github.com/JosepeDev/VarEnc)
 
 ### Unity Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=AudUnity&hide_border=true)](https://github.com/JosepeDev/AudUnity)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=KeyBinder&hide_border=true)](https://github.com/JosepeDev/KeyBinder)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JosepeDev&repo=CooldownAPI&hide_border=true)](https://github.com/JosepeDev/CooldownAPI)
 
