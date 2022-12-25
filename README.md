@@ -1,4 +1,4 @@
-![img](https://i.imgur.com/HqD7w7O.png)
+![img](https://i.imgur.com/Vi1ycRa.png)
 
 ### Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=VarEnc&hide_border=true)](https://github.com/jozzzzep/VarEnc)
