@@ -1,9 +1,9 @@
 ![img](https://i.imgur.com/Vi1ycRa.png)
 
-### Projects
+### Packages & Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=shrink&hide_border=true)](https://github.com/jozzzzep/shrink)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=jozz_events&)](https://github.com/jozzzzep/jozz_events)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=VarEnc&hide_border=true)](https://github.com/jozzzzep/VarEnc)
-
-### Unity Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=CooldownAPI&hide_border=true)](https://github.com/jozzzzep/CooldownAPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=AudUnity&hide_border=true)](https://github.com/jozzzzep/AudUnity)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=KeyBinder&hide_border=true)](https://github.com/jozzzzep/KeyBinder)
