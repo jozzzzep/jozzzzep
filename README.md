@@ -17,8 +17,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josepe)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jozzzzep&show_icons=true&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozzzzep&hide_border=true)
 <!--
 **JosepeDev/JosepeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
