@@ -1,19 +1,4 @@
-![img](https://i.imgur.com/Vi1ycRa.png)
-
-### Packages & Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=shrink&hide_border=true)](https://github.com/jozzzzep/shrink)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=prf&hide_border=true)](https://github.com/jozzzzep/prf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=jozz_events&)](https://github.com/jozzzzep/jozz_events)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=VarEnc&hide_border=true)](https://github.com/jozzzzep/VarEnc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=CooldownAPI&hide_border=true)](https://github.com/jozzzzep/CooldownAPI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=AudUnity&hide_border=true)](https://github.com/jozzzzep/AudUnity)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jozzzzep&repo=KeyBinder&hide_border=true)](https://github.com/jozzzzep/KeyBinder)
-
-### In Progress
-- Additional version of KeyBinder for Unity's new input system
-- A leaderboards tool for Unity games
-- A C++ Support for VarEnc repo
-- A Python Support for VarEnc repo
+![img](https://i.imgur.com/MfLfR3m.png)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josepe)](https://github.com/anuraghazra/github-readme-stats)
 
